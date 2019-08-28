@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Escape this Room!</string>
+    <string name="solve_puzzle_label">Solve the Puzzle</string>
+    <string name="red_color">R:</string>
+    <string name="blue_color">B:</string>
+    <string name="green_color">G:</string>
+    <string name="color_preview">Preview:</string>
+    <string name="change_button_label">Set Changes</string>
+    <string name="size_label">Size:</string>
+    <string name="edit_name_label">What is my name?</string>
+    <string name="when_label">When are we?</string>
+    <string name="spring_label">Spring</string>
+    <string name="summer_label">Summer</string>
+    <string name="fall_label">Fall</string>
+    <string name="winter_label">Winter</string>
+    <string name="room_one_label">Room One</string>
+    <string name="room_two_label">Room Two</string>
+    <string name="room_three_label">Room Three</string>
+    <string name="room_four_label">Room Four</string>
+    <string name="solve_puzzle_button_label">Solve</string>
+    <string name="winning_label">You win!</string>
+    <string name="losing_label">Try again!</string>
+    <string name="title_activity_name_puzzle">NamePuzzle</string>
+    <string name="cheat_label">Cheat</string>
+</resources>

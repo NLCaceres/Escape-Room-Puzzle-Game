@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_array">
+        <item>I\'m feeling red.</item>
+        <item>I\'m feeling green.</item>
+        <item>I\'m feeling blue.</item>
+    </string-array>
+    <string-array name="size_array">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Big</item>
+    </string-array>
+    <string-array name="main_activity_size_array">
+        <item>I want to be small.</item>
+        <item>I want to be medium.</item>
+        <item>I want to be big.</item>
+    </string-array>
+    <string-array name="name_array">
+        <item>You can call me \"Al\".</item>
+        <item>You can call me \"Jack\".</item>
+        <item>You can call me \"Steve\".</item>
+    </string-array>
+    <string-array name="seasons_array">
+        <item>The flowers have come back.</item>
+        <item>It\'s so hot outside!</item>
+        <item>There are so many leaves on the ground.</item>
+        <item>It\'s snowing!</item>
+    </string-array>
+</resources>
